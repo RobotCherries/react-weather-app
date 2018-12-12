@@ -11,11 +11,11 @@
 - [x] Getting Something on a Page
 - [x] Creating Your First Component
 #### Working with React
-- [ ] Making an Input Component
-- [ ] Managing State of a Component
-- [ ] Parent-Child Component Communication
-- [ ] Iterating Over Data
-- [ ] Passing Props Through Children
+- [x] Making an Input Component
+- [x] Managing State of a Component
+- [x] Parent-Child Component Communication
+- [x] Iterating Over Data
+- [x] Passing Props Through Children
 #### Diving Further
 - [ ] Conditionally Displaying Components
 - [ ] Functional Components
@@ -24,7 +24,8 @@
 - [ ] Wrapup
 
 ##### Used:
-* Visual Studio Code
-* Git
+* VS Code
+* Git with the [Hyper](https://hyper.is/) terminal
 * Yarn & NPM
 * React.js, React developer tools
+* Axios
